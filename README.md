@@ -8,16 +8,16 @@ The ImageClassifier Web App is an image classification application that uses Goo
 Here are some screenshots of the ImageClassifier Web App:
 
 ### **Home Page**
-![Home Page](screenshots/Home.png)
+![Home Page](ImageClassifier/screenshots/Home.png)
 
 ### **PhoneView **
-![PhoneView](screenshots/PhoneView.png)
+![PhoneView](ImageClassifier/screenshots/PhoneView.png)
 
 ### **Classification Results**
-![Classification Results](screenshots/Results.png)
+![Classification Results](ImageClassifier/screenshots/Results.png)
 
 ### **History**
-![History](screenshots/history.png)
+![History](ImageClassifier/screenshots/history.png)
 
 ## **Installation**
 
