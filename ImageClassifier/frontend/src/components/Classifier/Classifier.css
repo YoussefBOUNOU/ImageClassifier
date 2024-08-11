@@ -1,0 +1,31 @@
+.back {
+    background: #f8f8f8;
+    border-radius: 40px;
+    color:#AD88C6;
+    font-size: 18px;
+    width: 40%;
+    height: 40%;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 30% ;
+    padding: 75px 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+.back:hover {
+    border: 3px dashed #E1AFD1;
+}
+
+@media (max-width: 768px) {
+    .back {
+    width: 60%;
+    margin-left: 20% ;
+
+    }
+    .back:hover {
+        border: 2px dashed #E1AFD1;
+    }
+    
+}

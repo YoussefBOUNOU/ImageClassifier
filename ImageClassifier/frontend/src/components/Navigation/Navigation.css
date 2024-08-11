@@ -1,0 +1,35 @@
+.navigation-bar {
+    /* General styles for the navbar */
+    background-color: #6F42C1;
+    color: white;
+}
+
+.navigation-bar .navbar-brand {
+    /* Style the logo area */
+    margin: 10px ;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center; /* Center the logo vertically */
+}
+#responsive-navbar-nav .mr-auto{
+   font-size: 18px;
+}
+@media (max-width: 768px) {
+    .navigation-bar .navbar-brand {
+        /* Adjust logo size for smaller screens */
+        width: 60%;
+        font-size: medium;
+    }
+    .navigation-bar .navbar-brand img{
+        /* Adjust logo size for smaller screens */
+        width: 20%;
+        height: 20%;
+        margin: 10px ;
+
+    }
+    .navigation-bar .nav-item {
+        /* Stack navigation links vertically on small screens */
+        display: block;
+        margin-bottom: 10px; /* Add some spacing between links */
+    }
+}
